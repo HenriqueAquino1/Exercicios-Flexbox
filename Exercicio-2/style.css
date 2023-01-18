@@ -1,0 +1,37 @@
+
+
+.vavas1{
+display: flex;
+justify-content: center;
+background-color: blueviolet;
+
+   } 
+
+.vavas2{
+   display: flex;
+   justify-content: center;
+   background-color: blueviolet;
+}
+
+.h1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 60px;
+    padding: 45px;
+    border: rgb(98, 98, 235) ;
+    background-color:#168aad;
+    display: flex;    justify-content: center;
+    justify-content: center;
+
+
+}
+.vavas1 div{
+
+    display: flex;
+    
+}
+
+
+
+    
+
+
